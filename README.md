@@ -1,3 +1,8 @@
+PLEASE NOTE THAT THIS REPO IS NO LONGER MAINTAINED. THE VERSION BEING MAINTAINED IS https://github.com/aureliusenterprise/Aurelius-Atlas-helm-chart
+
+
+
+
 # How to Deploy Aurelius Atlas
 
 Getting started
